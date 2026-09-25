@@ -1,3 +1,8 @@
+<p align="center">
+  https://pixabay.com/it/images/search/pokeball/
+</p>
+
+
 # PokeManager - Gestionale Pokemon
 
 Un centro di ricerca Pokemon ti ha commissionato lo sviluppo di un gestionale per catalogare, organizzare e analizzare i Pokemon catturati dai vari allenatori.
