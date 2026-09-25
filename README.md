@@ -1,5 +1,5 @@
 <p align="center">
-  https://pixabay.com/it/images/search/pokeball/
+<img width="1280" height="1238" alt="image" src="https://github.com/user-attachments/assets/fdd319c9-985b-4e7a-b44f-883c20e79885" />
 </p>
 
 
